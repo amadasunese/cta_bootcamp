@@ -9,7 +9,7 @@
 </u>
 <p>In doing this, the following steps were taken:</p>
 
-1. Cleaning the Data to Prepare It for Analysis:
+<p>1. Cleaning the Data to Prepare It for Analysis:</p>
 
 <p>Cleaning the data is a crucial step in the data analysis process. In doing this, it enables me to identify and address issues in the dataset to ensure its quality and reliability. Key tasks here include:</p>
 <ul>
@@ -21,7 +21,7 @@
 <li>Addressing inconsistencies and errors: Correcting data entry errors or inconsistencies.</li>
 <li>Handling categorical data: Encoding categorical variables for analysis.</li>
 </ul>
-2. Explore the Data to Identify Key Variables and Statistics for the Various Customer Segments to get the following information:
+<p>2. Explore the Data to Identify Key Variables and Statistics for the Various Customer Segments to get the following information:</p>
 <ul>
 <p>Descriptive statistics: Calculating summary statistics (mean, median, standard deviation, etc.) for numeric variables.</p>
 <ul>
@@ -30,9 +30,10 @@
 <li>Segmenting the data: Dividing the dataset into meaningful segments or groups (e.g., by demographics or behavior).</li>
 <li>Hypothesis testing: Testing hypotheses or assumptions about the data to validate insights.</li>
 </ul>
-3. Visualize the Data to get the following :
+<p>3. Visualize the Data to get the following:</p>
 <ul>
 <li>Identifying trends and patterns: Visualizations like line plots and time series plots reveal trends over time.</li>
 <li>Comparing variables: Bar plots, scatter plots, and box plots help compare variables.</li>
 <li>Highlighting distributions: Histograms and density plots show the distribution of numeric data.</li>
 <li>Exploring relationships: Scatter plots and heatmaps can reveal relationships between variables.</li>
+</ul>

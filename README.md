@@ -2,11 +2,13 @@
 <p>This project focuses on data cleaning and preprocessing, exploration and visualization. Using a dataset from a telecom company that includes customer information, such as demographics, usage patterns, and whether they churned (i.e., left the company) or not, the goal is to prepare the data for analysis, explore key patterns and trends, and create visualizations to gain insights into factors influencing customer churn.</p>
 
 <p>This was done with the following objectives in mind:</p>
+
 <ul>
 <li>Clean and preprocess the raw dataset to make it suitable for analysis.</li>
 <li> Identify factors that may be associated with customer churn.</li>
 <li> Communicate findings through informative visualizations </li>
 </u>
+
 <p>In doing this, the following steps were taken:</p>
 
 <p>1. Cleaning the Data to Prepare It for Analysis:</p>
